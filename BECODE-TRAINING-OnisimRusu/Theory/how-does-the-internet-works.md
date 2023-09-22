@@ -23,3 +23,7 @@ Everything connected directly or indirectly to the internet has a Ip address
 Routers direct your packets around the internet helping each packet get one step closer to its destination.
 
 ![Internet](https://i.pinimg.com/originals/c8/ab/03/c8ab03bc781f4dcb94dc14bc5aa3d919.gif)
+
+This theory file has been reviewed by Clément Lequenne. 
+
+![Good Work](https://media.tenor.com/pPoepj658MYAAAAM/no-biggie-all-good.gif)
